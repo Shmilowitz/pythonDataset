@@ -8,7 +8,7 @@ The dataset is a file containing data about homocides in the period from 1980-20
  
  ** Questions for you guys **
  * Which ethnicity and which weapon is mostly used?
- * what is th age of the youngest victim and the oldest victim?
+ * what is the age of the youngest victim and the oldest victim?
  * Male or female perpetrators?
  * Top 10 states?
  * Top 3 incident?
