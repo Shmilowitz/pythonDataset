@@ -1,4 +1,4 @@
-# Homicide Reports US from 1980-2014
+# Homicide Reports US 1980-2014
 
 Link to dataset: 
 https://www.dropbox.com/sh/4b3dc4rgbrvy2ia/AAALj9NsgADkErYdMTeiXU4Ka?dl=0
