@@ -1,8 +1,8 @@
 # pythonDataset
 
 Link to dataset: 
-https://www.kaggle.com/murderaccountability/homicide-reports/downloads/database.csv
-requires user registration
+https://www.dropbox.com/sh/4b3dc4rgbrvy2ia/AAALj9NsgADkErYdMTeiXU4Ka?dl=0
+
 
 The dataset is a file containing data about homocides in the period from 1980-2014 with data about the victim along with his case, including gender, age, ethnicity, perpetrator and so on.
  
