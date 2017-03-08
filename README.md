@@ -15,5 +15,4 @@ The dataset is a file containing data about homocides in the period from 1980-20
  * Male to female ratio of perpetrators?
  * Top 10 states with most homicides? display it with bars (barchart) or similar
  * Optionals:
-  * Top 3 most occuring type of incidents (column "Crime Type")?
   * Are younger perpetrators (age 15-25) more likely to get caught then older ones (25+)?
